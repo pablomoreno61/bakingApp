@@ -1,0 +1,24 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:mContext="es.ibrands.bakingapp.fragment.RecipeListFragment">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recipe_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center" />
+
+    <com.developers.coolprogressviews.DoubleArcProgress
+        android:id="@+id/double_progress_arc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        app:insideArcColor="@color/colorAccent"
+        app:insideArcRadius="@dimen/double_arc_progress_inside_arc_radius"
+        app:outsideArcColor="@color/colorAccent"
+        app:outsideArcRadius="@dimen/double_arc_progress_outside_arc_radius" />
+</FrameLayout>

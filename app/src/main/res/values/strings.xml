@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="recipe_list_title">Recipe list</string>
+    <string name="servings">Servings</string>
+
+    <string name="recipe_detail_title">Recipe</string>
+    <string name="ingredients_text">Ingredients</string>
+    <string name="application_name_exo_player">RecipeStepsVideo</string>
+    <string name="no_internet_connection">No internet connection</string>
+
+    <string name="video_player_title">Watch video</string>
+
+    <string name="added_to_widget_message">added to Widget</string>
+    <string name="add_widget_menu_option">Add to Widget</string>
+</resources>

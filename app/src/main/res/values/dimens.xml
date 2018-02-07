@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="recipe_thumbnail_image_view_layout_margin">2dp</dimen>
+    <dimen name="recipe_thumbnail_image_view_max_width">150dp</dimen>
+    <dimen name="recipe_name_list_text_view_text_size">25sp</dimen>
+    <dimen name="recipe_name_list_text_view_margin_start">10dp</dimen>
+    <dimen name="recipe_name_list_text_view_margin_top">20dp</dimen>
+    <dimen name="servings_text_view_size">20sp</dimen>
+    <dimen name="servings_text_view_margin_start">10dp</dimen>
+
+    <dimen name="double_arc_progress_inside_arc_radius">20dp</dimen>
+    <dimen name="double_arc_progress_outside_arc_radius">40dp</dimen>
+
+    <dimen name="ingredients_text_margin_bottom">3dp</dimen>
+    <dimen name="ingredients_text_text_size">18sp</dimen>
+    <dimen name="ingredients_list_text_view_layout_margin">5dp</dimen>
+    <dimen name="ingredients_list_text_view_text_size">15sp</dimen>
+    <dimen name="step_recycler_view_margin_end">10dp</dimen>
+    <dimen name="step_recycler_view_margin_start">10dp</dimen>
+
+    <dimen name="widget_linear_layout_padding">8dp</dimen>
+    <dimen name="widget_layout_margin">5dp</dimen>
+    <dimen name="widget_recipe_name_text_size">18sp</dimen>
+    <dimen name="widget_ingredient_text_size">14sp</dimen>
+    <dimen name="widget_ingredient_layout_margin">5dp</dimen>
+</resources>
